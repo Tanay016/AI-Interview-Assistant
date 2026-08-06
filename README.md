@@ -108,7 +108,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Code:016** (Tanay Ghosh),
 **Swagatam Ghosh**,
-**Subham Hazra**
+**Subham Hazra**,
 **Anku Mandal**
 
 ## 🙏 Acknowledgments
@@ -119,4 +119,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-Made with  by Code:016,Swagatam Ghosh,Subham Hazra
+Made with  by Code:016,Swagatam Ghosh,Subham Hazra, Anku Mandal
