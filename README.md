@@ -107,6 +107,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Code:016** (Tanay Ghosh)
+**Swagatam Ghosh**
 
 ## 🙏 Acknowledgments
 
@@ -116,4 +117,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-Made with ❤️ by Code:016
+Made with  by Code:016,Swagatam Ghosh
