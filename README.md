@@ -106,10 +106,10 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Code:016** (Tanay Ghosh),
-**Swagatam Ghosh**,
-**Subham Hazra**,
-**Anku Mandal**,
+**Code:016** (Tanay Ghosh)
+**Swagatam Ghosh**
+**Subham Hazra**
+**Anku Mandal**
 **Ishan Maji**
 
 ## 🙏 Acknowledgments
@@ -120,4 +120,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-Made with  by Code:016,Swagatam Ghosh,Subham Hazra, Anku Mandal
+Made  by Code:016,Swagatam Ghosh,Subham Hazra, Anku Mandal
