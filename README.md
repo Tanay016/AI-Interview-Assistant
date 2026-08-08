@@ -107,9 +107,13 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Code:016** (Tanay Ghosh)
+
 **Swagatam Ghosh**
+
 **Subham Hazra**
+
 **Anku Mandal**
+
 **Ishan Maji**
 
 ## 🙏 Acknowledgments
